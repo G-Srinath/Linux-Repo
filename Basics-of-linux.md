@@ -1,3 +1,12 @@
+   ```
+   #!/bin/bash
+
+# Print the note
+echo "Notes prepared by G Srinath"
+
+   ```
+
+
 # Basics of Linux
 
 Linux is an open-source operating system (OS) that controls the hardware and software of a computer, managing tasks like memory allocation, running applications, and file management. Unlike proprietary systems (e.g., Windows or macOS), Linux is built on open-source principles, meaning its source code is freely available for anyone to view, modify, and distribute.
