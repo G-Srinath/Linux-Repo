@@ -1,6 +1,4 @@
-=====================================================================================================================
-                                  Linux Learning Modules
-=====================================================================================================================
+# Linux Learning Modules
 
 Becoming an expert in Linux administration and preparing for the **Red Hat Certified System Administrator (RHCSA)** exam is a great goal! Here's a structured study pattern and plan to guide you:
 
@@ -16,7 +14,7 @@ Becoming an expert in Linux administration and preparing for the **Red Hat Certi
      - Understanding users and groups.
      - Basic shell scripting.
    - **Resources**:
-     - Books: "The Linux Command Line" by William Shotts.
+     - Books: *"The Linux Command Line"* by William Shotts.
      - Platforms: Linux Academy, Udemy, or YouTube tutorials.
    - **Practice**: Install a Linux distribution on a virtual machine or dual boot your system and spend time navigating the terminal.
 
@@ -80,8 +78,8 @@ Becoming an expert in Linux administration and preparing for the **Red Hat Certi
 
 ### 6. **Additional Resources**
    - **Books**:
-     - "RHCSA/RHCE Red Hat Linux Certification Study Guide" by Michael Jang.
-     - "RHCSA/RHCE Practice Exam" books (Michael Jang has one).
+     - *"RHCSA/RHCE Red Hat Linux Certification Study Guide"* by Michael Jang.
+     - *"RHCSA/RHCE Practice Exam"* books (Michael Jang has one).
    - **Hands-On**: Always have a Linux system to practice on, whether it’s a VM, a cloud server, or a dual boot.
    - **Videos**: Supplement your learning with video tutorials on YouTube, Linux Academy, or RHCSA exam-specific courses.
 
@@ -92,8 +90,3 @@ Becoming an expert in Linux administration and preparing for the **Red Hat Certi
 
 ### Final Tip
 Be consistent with practice and troubleshooting. The more you encounter issues and solve them, the stronger your Linux skills will become!
-
-
-
-
-
