@@ -5,15 +5,27 @@ Linux is an open-source operating system (OS) that controls the hardware and sof
 ### Key Components of Linux
 
 1. **Kernel**: The core of the operating system that manages hardware resources (e.g., CPU, memory) and enables communication between hardware and software.
+
+
 2. **Shell**: The command-line interface (CLI) that allows users to interact with the OS by typing commands. Popular shells include Bash, Zsh, and Fish.
+
+
 3. **File System**: Linux organizes files in a hierarchical directory structure, starting from the root directory (`/`), with standard directories like `/home`, `/etc`, and `/var`.
+
+
 4. **Distributions**: Various versions of Linux that package the kernel with software and utilities. Popular ones include Ubuntu, CentOS, Debian, Fedora, and Arch.
 
 ### Basic Linux Concepts
 
 1. **Command-Line Interface (CLI)**: Linux is primarily operated using text-based commands in a terminal.
+
+
 2. **File Permissions**: Files and directories in Linux have permissions (read, write, execute) assigned to users, groups, and others.
+
+
 3. **Package Management**: Linux uses package managers like `apt` (Debian/Ubuntu) and `yum` (CentOS/Fedora) to install, update, and remove software.
+
+
 4. **Processes**: Programs running in the background or foreground. You can manage them using commands like `ps`, `top`, `kill`, etc.
 
 ### Basic Linux Commands
