@@ -1,6 +1,5 @@
-=====================================================================================================================
+
                                   Linux Learning Modules
-=====================================================================================================================
 
 Becoming an expert in Linux administration and preparing for the **Red Hat Certified System Administrator (RHCSA)** exam is a great goal! Here's a structured study pattern and plan to guide you:
 
